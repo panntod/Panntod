@@ -15,6 +15,6 @@
 ### GitHub Stats:
 [![Github Stats](https://img.shields.io/github/followers/panntod?logo=github&style=for-the-badge&color=6082B0)](https://www.github.com/justpiple) [![Github Stats](https://komarev.com/ghpvc/?username=panntod&style=flat-square&color=6082B0&style=for-the-badge)](https://www.github.com/panntod)<br> 
 ![](https://github-readme-stats.vercel.app/api?username=panntod&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=panntod&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=panntod&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
