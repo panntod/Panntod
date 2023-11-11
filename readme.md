@@ -1,7 +1,7 @@
 ![alt text](https://github.com/panntod/Panntod/blob/main/banner.jpg?raw=true)
 
 ### 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://web.facebook.com/pandhu.munjalindra/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pandhuu._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pandhu-arya-munjalindra-b9834b294/) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/975960358999171152) [![OpenSpotify](https://img.shields.io/badge/Listen%20on%20Spotify-%231ED760.svg?logo=spotify&logoColor=white)](https://open.spotify.com/user/31td447ye2yexn3kggm57cy7jpaa)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://web.facebook.com/pandhu.munjalindra/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pandhuu._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pandhu-arya-munjalindra-b9834b294/) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/975960358999171152) [![OpenSpotify](https://img.shields.io/badge/Listen%20on%20Spotify-%231ED760.svg?logo=spotify&logoColor=white)](https://open.spotify.com/user/31td447ye2yexn3kggm57cy7jpaa) [![WhatsApp](https://img.shields.io/badge/WhatsApp-%241EF760.svg?logo=whatsapp&logoColor=white)](https://wa.me/6287858496019)
 
 
 ### Tech Stack:
@@ -9,7 +9,7 @@
 
 
 ### Tools:
-![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS%20Code-%23007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 
 ### GitHub Stats:
