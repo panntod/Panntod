@@ -1,7 +1,7 @@
 ![alt text](https://github.com/panntod/Panntod/blob/main/banner.jpg?raw=true)
 
 ### 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://web.facebook.com/pandhu.munjalindra/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pandhuu._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pandhu-arya-munjalindra-b9834b294/) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/975960358999171152)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://web.facebook.com/pandhu.munjalindra/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pandhuu._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pandhu-arya-munjalindra-b9834b294/) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/975960358999171152) [![OpenSpotify](https://img.shields.io/badge/Listen%20on%20Spotify-%231ED760.svg?logo=spotify&logoColor=white)](https://open.spotify.com/user/31td447ye2yexn3kggm57cy7jpaa)
 
 
 ### Tech Stack:
@@ -14,7 +14,7 @@
 
 ### GitHub Stats:
 [![Github Stats](https://img.shields.io/github/followers/panntod?logo=github&style=for-the-badge&color=6082B0)](https://www.github.com/justpiple) [![Github Stats](https://komarev.com/ghpvc/?username=panntod&style=flat-square&color=6082B0&style=for-the-badge)](https://www.github.com/panntod)<br> 
-![](https://github-readme-stats.vercel.app/api?username=panntod&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=panntod&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=panntod&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=panntod&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
