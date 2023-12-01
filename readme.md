@@ -1,4 +1,4 @@
-![alt text](https://github.com/panntod/Panntod/blob/main/banner.jpg?raw=true)
+[![alt text](https://github.com/panntod/Panntod/blob/main/banner.jpg?raw=true)](https://www.linkedin.com/in/pandhu-arya-munjalindra-b9834b294)
 
 ### 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://web.facebook.com/pandhu.munjalindra/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tugaspann) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pandhu-arya-munjalindra-b9834b294/) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/975960358999171152) [![OpenSpotify](https://img.shields.io/badge/Listen%20on%20Spotify-%231ED760.svg?logo=spotify&logoColor=white)](https://open.spotify.com/user/31td447ye2yexn3kggm57cy7jpaa) [![WhatsApp](https://img.shields.io/badge/WhatsApp-%241EF760.svg?logo=whatsapp&logoColor=white)](https://wa.me/6287858496019)
