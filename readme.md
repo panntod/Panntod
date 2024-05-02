@@ -19,5 +19,5 @@
 
 
 ### Listening Spotify
-![Play Spotify](https://pandhu-spotify-readme.vercel.app/api)
+![Play Spotify](https://panntod-spotify-readme.vercel.app/api)
 ---
