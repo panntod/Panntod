@@ -17,4 +17,7 @@
 [![](https://github-readme-stats.vercel.app/api?username=panntod&theme=dark&hide_border=true&include_all_commits=false&count_private=false)](https://github.com/panntod?tab=repositories)
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=panntod&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)](https://github.com/panntod?tab=repositories)
 
+
+### Listening Spotify
+![Play Spotify](https://pandhu-spotify-readme.vercel.app/api)
 ---
