@@ -1,4 +1,3 @@
-Update Stats And 
 [![Pandhu Banner](https://github.com/panntod/Panntod/blob/classic/pandhu.jpg?raw=true)](https://www.linkedin.com/in/pandhu-arya)
 
 ### Socials:
