@@ -44,5 +44,5 @@
 
 
 ### Listening Spotify
-[![Play Spotify](https://panntod-spotify-readme.vercel.app/api)](https://open.spotify.com/user/31td447ye2yexn3kggm57cy7jpaa)
+[![Play Spotify](https://panntod-spotify-readme.vercel.app/)](https://open.spotify.com/user/31td447ye2yexn3kggm57cy7jpaa)
 ---
