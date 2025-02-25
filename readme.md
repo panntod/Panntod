@@ -1,5 +1,5 @@
 <a href="https://panntod.is-a.dev">
-  <img src="https://raw.githubusercontent.com/panntod/Panntod/refs/heads/classic/pandhu.jpg" />
+  <img src="https://raw.githubusercontent.com/panntod/Panntod/refs/heads/main/banner.png" />
 </a>
 
 <p align="center">
@@ -11,7 +11,7 @@
   <a href="https://open.spotify.com/user/31td447ye2yexn3kggm57cy7jpaa"><img src="https://img.shields.io/badge/panntod-1ED760?logo=spotify&logoColor=white"/></a>
 </p>
 
---- 
+---
 
 ### 🚀 About Me
 
@@ -27,6 +27,7 @@ Enthusiastic and results-driven freelance developer with a solid background in w
 | **Databases** | ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white&style=for-the-badge) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SUPABASE](https://img.shields.io/badge/supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) |
 | **DevOps & CI/CD** | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff&style=for-the-badge) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white&style=for-the-badge) |
 | **Tools** | ![VSCode](https://custom-icon-badges.demolab.com/badge/VS%20Code-0078d7.svg?logo=vsc&logoColor=white&style=for-the-badge) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
+
 
 ### 📈 GitHub Stats
 
@@ -49,6 +50,7 @@ Enthusiastic and results-driven freelance developer with a solid background in w
 💬 Feel free to reach out!
 
 ### 🎵 Fun Fact: Listening Spotify
+
 [![Spotify](https://panntod-spotify-readme.vercel.app/)](https://github.com/panntod/Spotify-Readme)
 
 ---
