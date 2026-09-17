@@ -33,13 +33,6 @@ Enthusiastic and results-driven freelance developer with a solid background in w
 [![GitHub Followers](https://img.shields.io/github/followers/panntod?logo=github&style=for-the-badge&color=6082B0)](https://www.github.com/panntod)
 [![Profile Views](https://komarev.com/ghpvc/?username=panntod&style=flat-square&color=6082B0&style=for-the-badge)](https://www.github.com/panntod)
 
-<a href="https://github.com/panntod">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=panntod&show_icons=true&theme=dark&hide_border=true"/>
-</a>
-<a href="https://github.com/panntod">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=panntod&layout=compact&theme=dark&hide_border=true"/>
-</a>
-
 ### 🤝 Let's Connect!
 
 💼 Open for freelance projects & collaborations  
